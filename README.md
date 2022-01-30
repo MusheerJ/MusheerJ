@@ -54,7 +54,7 @@
 <a href= https://www.linkedin.com/in/musheerahmed-jamadar-53b819211 > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'> </a>
 <a href= https://www.instagram.com/musheerjr > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'> </a>
 <a href= https://github.com/MusheerJ> <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkwvTSfLVvKfbkDqJXcfJDwtCdtHLWSQFxdSFNgcSGjCrmBhzpwBqzwqLVLBLfRGBvMKTm target="_blank" > <img width ='31px' src ='https://cdn-icons-png.flaticon.com/512/281/281769.png'> </a>
+<a href= https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkwvTSfLVvKfbkDqJXcfJDwtCdtHLWSQFxdSFNgcSGjCrmBhzpwBqzwqLVLBLfRGBvMKTm target=_blank > <img width ='31px' src ='https://cdn-icons-png.flaticon.com/512/281/281769.png'> </a>
 <!-- <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' 
 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
